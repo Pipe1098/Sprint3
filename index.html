@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="./styles/style.css">
+  <title>Sprint3 Peticiones HTTP | Async/Await</title>
+</head>
+
+<body>
+  <header class="header">
+    <section class="header__topmenu">
+      <h1 class="header__dir">Itagui Cr 50 B</h1>
+      <h2 class="header__phone">(+57) 3137141718</h2>
+      <a class="header__workinghours">Mon-Frid 8:00am-5:00pm</a>
+      <p id="btntopmenu"><a class="header__loginregister">LOGIN/REGISTER</a></p>
+      <section class="logosredes">
+      <a class="header__pinterest"> <img src="./images/logopint.png"  WIDTH=40 height=39 alt="pinterest"> </a>
+      <a class="header__insta"><img src="./images/logoinsta.png"  WIDTH=40 height=40 alt="insta"> </a>
+      <a class="header__face"> <img src="./images/logoface.png"  WIDTH=40 height=37 alt="face"> </a>
+      <a class="header__twi"><img src="./images/png-transparent-round-twitter-logo.png" WIDTH=40 height=42 alt="face"> </a>
+    </section>
+    </section>
+    <section class="header__menu">
+      <h1 class="header__nom">VBIENESRAICES <img class="menu__img" src="./images/logo.jfif" ALIGN=LEFT alt="logo"></h1>
+      <h2 class="header__homepage"> <a class="enlace" href="./pages/casaDetails.html">HOMEPAGE</a> </h2>
+      <a class="header__propiedades">PROPIEDADES</a>
+      <a class="header__agencias">AGENCIAS</a>
+      <a class="header__page">PAGINA</a>
+      <a class="header__about">ACERCA</a>
+      <a class="header__contact">CONTACTO</a>
+      <a class="header__compare">COMPARAR</a>
+      <p id="btnmenu"><a class="header__submit">SUBMIT LISTING</a></p>
+    </section>
+    <!-- <h1 class="header__title">Sesión 14 Peticiones HTTP | Async/Await</h1> -->
+    <!-- <figure class="header__image">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Star_Wars_Logo..png/640px-Star_Wars_Logo..png"
+        alt="Star_Wars_Logo">
+    </figure> -->
+  </header>
+  <main class="main">
+    <h3 class="main__title">Dejanos Guiarte A Tu Casa</h3>
+    <h4 class="main__subtitle">Encuentra tu casa ideal</h4>
+    <h5 class="main__subtitle2">AGENCIA BIENES RAICES</h5>
+    <h6 class="main__subtitle3">PROPIEDADES DESTACADAS</h6>
+    
+    <!-- <h3 class="main__subtitle"><a href="./pages/formCasa.html">Encuentra tu casa ideal</a></h3> -->
+    <section class= "main__navbar">
+    <nav class="navbar"> 
+      <h3 class="select__title">Buscar</h3>
+      <input id="search" type="search">
+      <h3 class="select__title">Tipo</h3>
+      <select id="select">
+        <option value="Seleccione">Seleccione</option>
+        <option value="Casa">Casa</option>
+        <option value="Apartamento">Apartamento</option>
+        <option value="Local">Local</option>
+        <option value="Finca">Finca</option>
+      </select>
+      <a class="enlace" href="./pages/favoritos.html">Ir a Favoritos</a>
+      <a class="enlace" href="./pages/formCasa.html">Agregar</a>
+      <!-- <button id="all">Todas</button>
+      <button id="norte">Norte</button>
+      <button id="sur">Sur</button> -->
+      <section class="main__filtros">
+        <button id="all">Todo</button>
+        <button id="sur">Sur</button>
+        <button id="norte">Norte</button>
+        <button id="centro">Centro</button>
+      </section>
+    </nav>
+ </section>
+    <!-- <section class="main__filtros2">
+       <h2 class="main__subtitle">Otros filtos</h2> 
+      <button id="all2">todos</button>
+      <button id="sur2">sur</button>
+      <button id="norte2">norteo</button> 
+    </section> -->
+    <section id="contenedorCards">
+      <!-- <article class="main__card">
+        <figure class="card__image">
+          <img src="https://static.wikia.nocookie.net/esstarwars/images/f/ff/Leia_photomasher.jpg" alt="name">
+        </figure>
+        <h4 class="card__name">Luke Skywalker</h4>
+      </article> -->
+    </section>
+  </main>
+  <script src="./scripts/script.js" type="module"></script>
+  <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+</body>
+
+</html>

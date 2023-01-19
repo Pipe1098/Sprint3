@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../styles/addNewCasa.css">
+    <title>Formulario Casas</title>
+</head>
+<body>
+    <h1 class="title">Agregar nueva Casa</h1>
+    <h2 class="subtitle"><a href="../index.html">Regresar a Home</a></h2>
+    <form class="form">
+        <label for="name">Nombre</label>
+        <input id='name' type="text" placeholder="Digite aquí el nombre de la casa">
+        <label for="height">height cuadrados</label>
+        <input id='height' type="text">
+        <label for="precio">Precio</label>
+        <input id='precio' type="text">
+        <label for="comodidades">Comodidades</label>
+        <input id='comodidades' type="text">
+        <label for="descripcion">Descripcion</label>
+        <input id='descripcion' type="text">
+        <label for="modalidad">Modalidad</label>
+        <select name="" id="modalidad">
+            <option value="">Selecione una opción</option>
+            <option value="Casa">Renta</option>
+            <option value="Apartamento">Venta</option>
+        </select>
+        <!-- <input id='modalidad' type="text"> -->
+        <label for="contacto">Contacto</label>
+        <input id='contacto' type="text">
+        <label for="tipo">Tipo</label>
+        <select name="" id="tipo">
+            <option value="">Selecione una opción</option>
+            <option value="Casa">Casa</option>
+            <option value="Apartamento">Apartamento</option>
+            <option value="Finca">Finca</option>
+            <option value="Local">Local</option>
+        </select>
+        <label for="ubicacion">Ubicación</label>
+        <select name="" id="ubicacion">
+            <option value="">Selecione una opción</option>
+            <option value="Norte">Norte</option>
+            <option value="Sur">Sur</option>
+            <option value="Centro">Centro</option>
+            <!-- <option value="alien">Centro</option> -->
+        </select>
+        <label for="image">Imagen</label>
+        <input id='image' type="url">
+        <label for="images">Imagenes</label>
+        <input id='images' type="text">
+        
+        
+        <button type="submit">Enviar</button>
+    </form>
+    <script src="../scripts/formCasa.js"  type="module"></script>
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+</body>
+</html>

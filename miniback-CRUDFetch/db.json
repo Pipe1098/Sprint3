@@ -1,0 +1,381 @@
+{
+  "Casas": [
+    {
+      "name": "Casa a la venta hermosa",
+      "height": "Laureles",
+      "precio": "400 m2",
+      "comodidades": "4 habitaciones, 3 baños",
+      "descripcion": "casa",
+      "modalidad": "Venta",
+      "contacto": "$1.900.000 con parquedero",
+      "tipo": "Casa",
+      "ubicacion": "norte",
+      "image": "https://www.corredoresintegrados.cl/assets/img/inicio/casas.jpg",
+      "images": [
+        "https://www.shutterstock.com/image-photo/abandoned-mill-minneapolis-minnesota-600w-1488168617.jpg",
+        "https://www.corredoresintegrados.cl/assets/img/inicio/casas.jpg",
+        "https://images.homify.com/c_fill,f_auto,q_0,w_740/v1562911340/p/photo/image/3123723/ALTOS10.jpg"
+      ],
+      "id": 1
+    },
+    {
+      "name": "Finca Rosales",
+      "height": "200",
+      "precio": "136'000.000",
+      "comodidades": "6 hab,2 bañ, piscina, cancha, terraza, balcon, jardin",
+      "descripcion": "Finca en venta para estrenar en Rionegro",
+      "modalidad": "Venta",
+      "contacto": "Veronica Bedoya-3156987456",
+      "tipo": "Finca",
+      "ubicacion": "norte",
+      "image": "https://st.depositphotos.com/2018053/2693/i/450/depositphotos_26934873-stock-photo-modern-house.jpg",
+      "images": [
+        "https://thumbs.dreamstime.com/z/comedor-dentro-de-la-casa-moderna-48148754.jpg",
+        "https://previews.123rf.com/images/piovesempre/piovesempre1602/piovesempre160200077/52266933-interior-de-una-casa-moderna-c%C3%B3moda-sala-de-estar.jpg",
+        "https://previews.123rf.com/images/piovesempre/piovesempre1512/piovesempre151200326/49781335-arquitectura-c%C3%B3moda-habitaci%C3%B3n-de-una-casa-moderna.jpg",
+        "https://images.hola.com/imagenes/decoracion/20200325164009/decoracion-cocinas-modernas-color/0-802-947/cocinas-color-11a-a.jpg",
+        "https://decoracionesbonitas.com/wp-content/uploads/2021/10/decoracion-para-habitaciones.jpg",
+        "https://www.arkiplus.com/wp-content/uploads/2021/01/banos-modernos4.jpg"
+      ],
+      "id": 4
+    },
+    {
+      "name": "Local mall del sur",
+      "height": "300",
+      "precio": "90'000.000",
+      "comodidades": "1 baño, 1 cuarto util,1 cocineta",
+      "descripcion": "Esta ubicado en un mall muy concurrido, cerca a la estacion del metro, muy buena iluminación y acabados",
+      "modalidad": "Venta",
+      "contacto": "Veronica Bedoya-3156987456",
+      "tipo": "Local",
+      "ubicacion": "sur",
+      "image": "http://planosycasas.net/wp-content/uploads/2016/10/Modelos-de-fachadas-modernas-para-un-local-comercial.jpg",
+      "images": [
+        "https://thumbs.dreamstime.com/z/comedor-dentro-de-la-casa-moderna-48148754.jpg",
+        "https://previews.123rf.com/images/piovesempre/piovesempre1602/piovesempre160200077/52266933-interior-de-una-casa-moderna-c%C3%B3moda-sala-de-estar.jpg",
+        "https://previews.123rf.com/images/piovesempre/piovesempre1512/piovesempre151200326/49781335-arquitectura-c%C3%B3moda-habitaci%C3%B3n-de-una-casa-moderna.jpg",
+        "https://images.hola.com/imagenes/decoracion/20200325164009/decoracion-cocinas-modernas-color/0-802-947/cocinas-color-11a-a.jpg",
+        "https://decoracionesbonitas.com/wp-content/uploads/2021/10/decoracion-para-habitaciones.jpg",
+        "https://www.arkiplus.com/wp-content/uploads/2021/01/banos-modernos4.jpg"
+      ],
+      "id": 6
+    },
+    {
+      "name": "Apartamento para estrenar ",
+      "height": "400",
+      "precio": "1'000.000",
+      "comodidades": "4 hab, 2 bat",
+      "descripcion": "Apartamento con excelentes acabados, en unidad cerrada, a 2 min de la vía principal",
+      "modalidad": "Renta",
+      "contacto": "Carlos-2589740",
+      "tipo": "female",
+      "ubicacion": "sur",
+      "image": "https://static4.depositphotos.com/1004032/356/i/950/depositphotos_3569587-stock-photo-single-family-small-house.jpg",
+      "images": [
+        "https://thumbs.dreamstime.com/z/comedor-dentro-de-la-casa-moderna-48148754.jpg",
+        "https://previews.123rf.com/images/piovesempre/piovesempre1602/piovesempre160200077/52266933-interior-de-una-casa-moderna-c%C3%B3moda-sala-de-estar.jpg",
+        "https://previews.123rf.com/images/piovesempre/piovesempre1512/piovesempre151200326/49781335-arquitectura-c%C3%B3moda-habitaci%C3%B3n-de-una-casa-moderna.jpg",
+        "https://images.hola.com/imagenes/decoracion/20200325164009/decoracion-cocinas-modernas-color/0-802-947/cocinas-color-11a-a.jpg",
+        "https://decoracionesbonitas.com/wp-content/uploads/2021/10/decoracion-para-habitaciones.jpg",
+        "https://www.arkiplus.com/wp-content/uploads/2021/01/banos-modernos4.jpg"
+      ],
+      "id": 7
+    },
+    {
+      "name": "Finca la primavera",
+      "height": "2000",
+      "precio": "430'000.000",
+      "comodidades": "Hermosa finca ubicada en la estrella, a 15 min del parque principal, con piscina, jacuzzi y cancha de tenis",
+      "descripcion": "6 hab, 4 bat, sala, cocina, y corredor amplio",
+      "modalidad": "Venta",
+      "contacto": "Contacto: Andrés Pérez -3112569874",
+      "tipo": "Finca",
+      "ubicacion": "sur",
+      "image": "https://st2.depositphotos.com/1469828/10393/i/950/depositphotos_103939650-stock-photo-the-blue-house.jpg",
+      "images": [
+        "https://thumbs.dreamstime.com/z/comedor-dentro-de-la-casa-moderna-48148754.jpg",
+        "https://previews.123rf.com/images/piovesempre/piovesempre1602/piovesempre160200077/52266933-interior-de-una-casa-moderna-c%C3%B3moda-sala-de-estar.jpg",
+        "https://previews.123rf.com/images/piovesempre/piovesempre1512/piovesempre151200326/49781335-arquitectura-c%C3%B3moda-habitaci%C3%B3n-de-una-casa-moderna.jpg",
+        "https://images.hola.com/imagenes/decoracion/20200325164009/decoracion-cocinas-modernas-color/0-802-947/cocinas-color-11a-a.jpg",
+        "https://decoracionesbonitas.com/wp-content/uploads/2021/10/decoracion-para-habitaciones.jpg",
+        "https://www.arkiplus.com/wp-content/uploads/2021/01/banos-modernos4.jpg"
+      ],
+      "id": 8
+    },
+    {
+      "name": "Finca el amanecer",
+      "height": "800",
+      "precio": "3'500.000",
+      "comodidades": "5 hab, 2 bat, cocina, patio, sala, comedor y jardin",
+      "descripcion": "Finca para alquiler, en muy buen estado, con buena divisa, buen clima y sector tranquilo.",
+      "modalidad": "Venta",
+      "contacto": "Veronica Bedoya-3156987514",
+      "tipo": "Finca",
+      "ubicacion": "sur",
+      "image": "https://st2.depositphotos.com/5839294/11896/i/950/depositphotos_118966490-stock-photo-fishing-village-model-town-at.jpg",
+      "images": [
+        "https://thumbs.dreamstime.com/z/comedor-dentro-de-la-casa-moderna-48148754.jpg",
+        "https://previews.123rf.com/images/piovesempre/piovesempre1602/piovesempre160200077/52266933-interior-de-una-casa-moderna-c%C3%B3moda-sala-de-estar.jpg",
+        "https://previews.123rf.com/images/piovesempre/piovesempre1512/piovesempre151200326/49781335-arquitectura-c%C3%B3moda-habitaci%C3%B3n-de-una-casa-moderna.jpg",
+        "https://images.hola.com/imagenes/decoracion/20200325164009/decoracion-cocinas-modernas-color/0-802-947/cocinas-color-11a-a.jpg",
+        "https://decoracionesbonitas.com/wp-content/uploads/2021/10/decoracion-para-habitaciones.jpg",
+        "https://www.arkiplus.com/wp-content/uploads/2021/01/banos-modernos4.jpg"
+      ],
+      "id": 9
+    },
+    {
+      "name": "Local comercial",
+      "height": "80",
+      "precio": "1'000.000",
+      "comodidades": "1 baño, 1 cuarto util,1 cocineta",
+      "descripcion": "Local en el centro comercial los molinos, con todos los servicios al dia, buena ubicación, cerca alas rutas de transporte.",
+      "modalidad": "Renta",
+      "contacto": "Veronica Bedoya-3156987514",
+      "tipo": "Local",
+      "ubicacion": "norte",
+      "image": "https://www.shutterstock.com/image-photo/facade-commercial-premises-area-on-600w-2021433344.jpg",
+      "images": [
+        "https://thumbs.dreamstime.com/z/comedor-dentro-de-la-casa-moderna-48148754.jpg",
+        "https://previews.123rf.com/images/piovesempre/piovesempre1602/piovesempre160200077/52266933-interior-de-una-casa-moderna-c%C3%B3moda-sala-de-estar.jpg",
+        "https://previews.123rf.com/images/piovesempre/piovesempre1512/piovesempre151200326/49781335-arquitectura-c%C3%B3moda-habitaci%C3%B3n-de-una-casa-moderna.jpg",
+        "https://images.hola.com/imagenes/decoracion/20200325164009/decoracion-cocinas-modernas-color/0-802-947/cocinas-color-11a-a.jpg",
+        "https://decoracionesbonitas.com/wp-content/uploads/2021/10/decoracion-para-habitaciones.jpg",
+        "https://www.arkiplus.com/wp-content/uploads/2021/01/banos-modernos4.jpg"
+      ],
+      "id": 10
+    },
+    {
+      "name": "Casa en las Vegas",
+      "height": "100 ",
+      "precio": "1'200.000",
+      "comodidades": "3 hab, 2 bañ, cocina, sala, balcon.",
+      "descripcion": "Es una casa muy lujosa y con mucha naturaleza alrededor",
+      "modalidad": "Renta",
+      "contacto": "Veronica Bedoya-3156987456",
+      "tipo": "Casa",
+      "ubicacion": "centro",
+      "image": "https://www.construyehogar.com/wp-content/uploads/2014/07/Dise%C3%B1o-de-casa-moderna-de-dos-pisos1.jpg",
+      "images": [
+        "https://thumbs.dreamstime.com/z/comedor-dentro-de-la-casa-moderna-48148754.jpg",
+        "https://previews.123rf.com/images/piovesempre/piovesempre1602/piovesempre160200077/52266933-interior-de-una-casa-moderna-c%C3%B3moda-sala-de-estar.jpg",
+        "https://previews.123rf.com/images/piovesempre/piovesempre1512/piovesempre151200326/49781335-arquitectura-c%C3%B3moda-habitaci%C3%B3n-de-una-casa-moderna.jpg",
+        "https://images.hola.com/imagenes/decoracion/20200325164009/decoracion-cocinas-modernas-color/0-802-947/cocinas-color-11a-a.jpg",
+        "https://decoracionesbonitas.com/wp-content/uploads/2021/10/decoracion-para-habitaciones.jpg",
+        "https://www.arkiplus.com/wp-content/uploads/2021/01/banos-modernos4.jpg"
+      ],
+      "id": 11
+    },
+    {
+      "name": "Casa en el centro",
+      "height": "1000 ",
+      "precio": "1'200.000.000",
+      "comodidades": "3 hab, 3 bañ, cocina, sala, balcon, sala de estudio, cuato util, garaje",
+      "descripcion": "Es una casa muy lujosa y con mucha naturaleza alrededor",
+      "modalidad": "Venta",
+      "contacto": "Veronica Bedoya-3156987456",
+      "tipo": "Casa",
+      "ubicacion": "centro",
+      "image": "https://images.homify.com/image/upload/c_scale,h_500,w_500/v1441307421/p/photo/image/876953/20TV.jpg",
+      "images": [
+        "https://thumbs.dreamstime.com/z/comedor-dentro-de-la-casa-moderna-48148754.jpg",
+        "https://previews.123rf.com/images/piovesempre/piovesempre1602/piovesempre160200077/52266933-interior-de-una-casa-moderna-c%C3%B3moda-sala-de-estar.jpg",
+        "https://previews.123rf.com/images/piovesempre/piovesempre1512/piovesempre151200326/49781335-arquitectura-c%C3%B3moda-habitaci%C3%B3n-de-una-casa-moderna.jpg",
+        "https://images.hola.com/imagenes/decoracion/20200325164009/decoracion-cocinas-modernas-color/0-802-947/cocinas-color-11a-a.jpg",
+        "https://decoracionesbonitas.com/wp-content/uploads/2021/10/decoracion-para-habitaciones.jpg",
+        "https://www.arkiplus.com/wp-content/uploads/2021/01/banos-modernos4.jpg"
+      ],
+      "id": 12
+    },
+    {
+      "name": "Local comercial",
+      "height": "80",
+      "precio": "2'000.000",
+      "comodidades": "1 mostrador, 1 bañ, cocina, cuato util, garaje",
+      "descripcion": "Es un local muy bien ubicado, buena iluminacion, buenos acabados, libre de servicios",
+      "modalidad": "Renta",
+      "contacto": "Veronica Bedoya-3156987456",
+      "tipo": "Local",
+      "ubicacion": "centro",
+      "image": "https://i.pinimg.com/originals/5a/f0/e7/5af0e7022d488427374839a6c72b7cef.jpg",
+      "images": [
+        "https://thumbs.dreamstime.com/z/comedor-dentro-de-la-casa-moderna-48148754.jpg",
+        "https://previews.123rf.com/images/piovesempre/piovesempre1602/piovesempre160200077/52266933-interior-de-una-casa-moderna-c%C3%B3moda-sala-de-estar.jpg",
+        "https://previews.123rf.com/images/piovesempre/piovesempre1512/piovesempre151200326/49781335-arquitectura-c%C3%B3moda-habitaci%C3%B3n-de-una-casa-moderna.jpg",
+        "https://images.hola.com/imagenes/decoracion/20200325164009/decoracion-cocinas-modernas-color/0-802-947/cocinas-color-11a-a.jpg",
+        "https://decoracionesbonitas.com/wp-content/uploads/2021/10/decoracion-para-habitaciones.jpg",
+        "https://www.arkiplus.com/wp-content/uploads/2021/01/banos-modernos4.jpg"
+      ],
+      "id": 13
+    },
+    {
+      "name": "Apartamento en Bello",
+      "height": "60",
+      "precio": "1'500.000",
+      "comodidades": "2 hab, 2 bañ, cocina, cuato util, sala",
+      "descripcion": "Torre luna piso 3 ,es para una o dos personas, estrato 3, cerca al D1 y la estacion del metro",
+      "modalidad": "Renta",
+      "contacto": "Veronica Bedoya-3156987456",
+      "tipo": "Apartamento",
+      "ubicacion": "norte",
+      "image": "https://fundacioncompartir.org/sites/default/files/estos-son-algunos-de-los-edificios-construidos-en-madera.jpg",
+      "images": [
+        "https://thumbs.dreamstime.com/z/comedor-dentro-de-la-casa-moderna-48148754.jpg",
+        "https://previews.123rf.com/images/piovesempre/piovesempre1602/piovesempre160200077/52266933-interior-de-una-casa-moderna-c%C3%B3moda-sala-de-estar.jpg",
+        "https://previews.123rf.com/images/piovesempre/piovesempre1512/piovesempre151200326/49781335-arquitectura-c%C3%B3moda-habitaci%C3%B3n-de-una-casa-moderna.jpg",
+        "https://images.hola.com/imagenes/decoracion/20200325164009/decoracion-cocinas-modernas-color/0-802-947/cocinas-color-11a-a.jpg",
+        "https://decoracionesbonitas.com/wp-content/uploads/2021/10/decoracion-para-habitaciones.jpg",
+        "https://www.arkiplus.com/wp-content/uploads/2021/01/banos-modernos4.jpg"
+      ],
+      "id": 14
+    },
+    {
+      "name": "Local en medellín",
+      "height": "90",
+      "precio": "3'000.000",
+      "comodidades": "1 mostrador, 1 bañ, cocina, cuato util, garaje",
+      "descripcion": "Es un local muy bien ubicado, buena iluminacion, buenos acabados, libre de servicios",
+      "modalidad": "Renta",
+      "contacto": "Veronica Bedoya-3156987456",
+      "tipo": "Local",
+      "ubicacion": "sur",
+      "image": "https://planosycasas.net/wp-content/uploads/2016/10/fachadas-locales-comerciales-modernos.jpg",
+      "images": [
+        "https://thumbs.dreamstime.com/z/comedor-dentro-de-la-casa-moderna-48148754.jpg",
+        "https://previews.123rf.com/images/piovesempre/piovesempre1602/piovesempre160200077/52266933-interior-de-una-casa-moderna-c%C3%B3moda-sala-de-estar.jpg",
+        "https://previews.123rf.com/images/piovesempre/piovesempre1512/piovesempre151200326/49781335-arquitectura-c%C3%B3moda-habitaci%C3%B3n-de-una-casa-moderna.jpg",
+        "https://images.hola.com/imagenes/decoracion/20200325164009/decoracion-cocinas-modernas-color/0-802-947/cocinas-color-11a-a.jpg",
+        "https://decoracionesbonitas.com/wp-content/uploads/2021/10/decoracion-para-habitaciones.jpg",
+        "https://www.arkiplus.com/wp-content/uploads/2021/01/banos-modernos4.jpg"
+      ],
+      "id": 15
+    },
+    {
+      "name": "Apartamento en Robledo",
+      "height": "120",
+      "precio": "300'000.000",
+      "comodidades": "3 hab, 2 bañ, cocina, cuato util, sala, patio, balcon",
+      "descripcion": "Estrato 5, piso 10, cerca a colegios, guarderias, canchas, parques, tiendas",
+      "modalidad": "Venta",
+      "contacto": "Veronica Bedoya-3156987456",
+      "tipo": "Apartamento",
+      "ubicacion": "centro",
+      "image": "https://www.eluniversal.com.mx/sites/default/files/u916/torre_reforma.jpg",
+      "images": [
+        "https://thumbs.dreamstime.com/z/comedor-dentro-de-la-casa-moderna-48148754.jpg",
+        "https://previews.123rf.com/images/piovesempre/piovesempre1602/piovesempre160200077/52266933-interior-de-una-casa-moderna-c%C3%B3moda-sala-de-estar.jpg",
+        "https://previews.123rf.com/images/piovesempre/piovesempre1512/piovesempre151200326/49781335-arquitectura-c%C3%B3moda-habitaci%C3%B3n-de-una-casa-moderna.jpg",
+        "https://images.hola.com/imagenes/decoracion/20200325164009/decoracion-cocinas-modernas-color/0-802-947/cocinas-color-11a-a.jpg",
+        "https://decoracionesbonitas.com/wp-content/uploads/2021/10/decoracion-para-habitaciones.jpg",
+        "https://www.arkiplus.com/wp-content/uploads/2021/01/banos-modernos4.jpg"
+      ],
+      "id": 16
+    },
+    {
+      "name": "Casa en ciudad en rio",
+      "height": "130",
+      "precio": "500'000.000",
+      "comodidades": "4 hab, 2 bañ, cocina, cuato util, sala, patio, balcon",
+      "descripcion": "Estrato 5, piso 2, cerca a colegios, guarderias, canchas, parques, tiendas",
+      "modalidad": "Venta",
+      "contacto": "Veronica Bedoya-3156987456",
+      "tipo": "Casa",
+      "ubicacion": "centro",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/House_of_European_History.jpg/280px-House_of_European_History.jpg",
+      "images": [
+        "https://thumbs.dreamstime.com/z/comedor-dentro-de-la-casa-moderna-48148754.jpg",
+        "https://previews.123rf.com/images/piovesempre/piovesempre1602/piovesempre160200077/52266933-interior-de-una-casa-moderna-c%C3%B3moda-sala-de-estar.jpg",
+        "https://previews.123rf.com/images/piovesempre/piovesempre1512/piovesempre151200326/49781335-arquitectura-c%C3%B3moda-habitaci%C3%B3n-de-una-casa-moderna.jpg",
+        "https://images.hola.com/imagenes/decoracion/20200325164009/decoracion-cocinas-modernas-color/0-802-947/cocinas-color-11a-a.jpg",
+        "https://decoracionesbonitas.com/wp-content/uploads/2021/10/decoracion-para-habitaciones.jpg",
+        "https://www.arkiplus.com/wp-content/uploads/2021/01/banos-modernos4.jpg"
+      ],
+      "id": 17
+    },
+    {
+      "name": "Finca el ocaso",
+      "height": "5000",
+      "precio": "2'000.000",
+      "comodidades": "7 hab, 5 bat, 2 cocinas, 2 patios, 2 salas, 3 comedores y 2 jardin.",
+      "descripcion": "Finca para laventa, en muy buen estado, con buena divisa, buen clima, sector tranquilo, estrato 6.",
+      "modalidad": "Venta",
+      "contacto": "Veronica Bedoya-3156987514",
+      "tipo": "Finca",
+      "ubicacion": "centro",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Finca_Risaralda_Caldas_%282%29.jpg/640px-Finca_Risaralda_Caldas_%282%29.jpg",
+      "images": [
+        "https://thumbs.dreamstime.com/z/comedor-dentro-de-la-casa-moderna-48148754.jpg",
+        "https://previews.123rf.com/images/piovesempre/piovesempre1602/piovesempre160200077/52266933-interior-de-una-casa-moderna-c%C3%B3moda-sala-de-estar.jpg",
+        "https://previews.123rf.com/images/piovesempre/piovesempre1512/piovesempre151200326/49781335-arquitectura-c%C3%B3moda-habitaci%C3%B3n-de-una-casa-moderna.jpg",
+        "https://images.hola.com/imagenes/decoracion/20200325164009/decoracion-cocinas-modernas-color/0-802-947/cocinas-color-11a-a.jpg",
+        "https://decoracionesbonitas.com/wp-content/uploads/2021/10/decoracion-para-habitaciones.jpg",
+        "https://www.arkiplus.com/wp-content/uploads/2021/01/banos-modernos4.jpg"
+      ],
+      "id": 18
+    }
+  ],
+  "favoritos": [
+    {
+      "name": "Finca girardota",
+      "height": "200",
+      "precio": "136'000.000",
+      "comodidades": "6 hab,2 bañ, piscina, cancha, terraza, balcon, jardin",
+      "descripcion": "Finca en venta para estrenar en Rionegro",
+      "modalidad": "Venta",
+      "contacto": "Veronica Bedoya-3156987456",
+      "tipo": "Finca",
+      "ubicacion": "norte",
+      "image": "https://st.depositphotos.com/2018053/2693/i/450/depositphotos_26934873-stock-photo-modern-house.jpg",
+      "images": [
+        "https://thumbs.dreamstime.com/z/comedor-dentro-de-la-casa-moderna-48148754.jpg",
+        "https://previews.123rf.com/images/piovesempre/piovesempre1602/piovesempre160200077/52266933-interior-de-una-casa-moderna-c%C3%B3moda-sala-de-estar.jpg",
+        "https://previews.123rf.com/images/piovesempre/piovesempre1512/piovesempre151200326/49781335-arquitectura-c%C3%B3moda-habitaci%C3%B3n-de-una-casa-moderna.jpg",
+        "https://images.hola.com/imagenes/decoracion/20200325164009/decoracion-cocinas-modernas-color/0-802-947/cocinas-color-11a-a.jpg",
+        "https://decoracionesbonitas.com/wp-content/uploads/2021/10/decoracion-para-habitaciones.jpg",
+        "https://www.arkiplus.com/wp-content/uploads/2021/01/banos-modernos4.jpg"
+      ],
+      "id": 4
+    },
+    {
+      "name": "Finca la primavera",
+      "height": "2000",
+      "precio": "430'000.000",
+      "comodidades": "Hermosa finca ubicada en la estrella, a 15 min del parque principal, con piscina, jacuzzi y cancha de tenis",
+      "descripcion": "6 hab, 4 bat, sala, cocina, y corredor amplio",
+      "modalidad": "Venta",
+      "contacto": "Contacto: Andrés Pérez -3112569874",
+      "tipo": "Finca",
+      "ubicacion": "sur",
+      "image": "https://st2.depositphotos.com/1469828/10393/i/950/depositphotos_103939650-stock-photo-the-blue-house.jpg",
+      "images": [
+        "https://thumbs.dreamstime.com/z/comedor-dentro-de-la-casa-moderna-48148754.jpg",
+        "https://previews.123rf.com/images/piovesempre/piovesempre1602/piovesempre160200077/52266933-interior-de-una-casa-moderna-c%C3%B3moda-sala-de-estar.jpg",
+        "https://previews.123rf.com/images/piovesempre/piovesempre1512/piovesempre151200326/49781335-arquitectura-c%C3%B3moda-habitaci%C3%B3n-de-una-casa-moderna.jpg",
+        "https://images.hola.com/imagenes/decoracion/20200325164009/decoracion-cocinas-modernas-color/0-802-947/cocinas-color-11a-a.jpg",
+        "https://decoracionesbonitas.com/wp-content/uploads/2021/10/decoracion-para-habitaciones.jpg",
+        "https://www.arkiplus.com/wp-content/uploads/2021/01/banos-modernos4.jpg"
+      ],
+      "id": 8
+    },
+    {
+      "name": "Casa en las Vegas",
+      "height": "100 ",
+      "precio": "1'200.000",
+      "comodidades": "3 hab, 2 bañ, cocina, sala, balcon.",
+      "descripcion": "Es una casa muy lujosa y con mucha naturaleza alrededor",
+      "modalidad": "Renta",
+      "contacto": "Veronica Bedoya-3156987456",
+      "tipo": "Casa",
+      "ubicacion": "centro",
+      "image": "https://www.construyehogar.com/wp-content/uploads/2014/07/Dise%C3%B1o-de-casa-moderna-de-dos-pisos1.jpg",
+      "images": [
+        "https://thumbs.dreamstime.com/z/comedor-dentro-de-la-casa-moderna-48148754.jpg",
+        "https://previews.123rf.com/images/piovesempre/piovesempre1602/piovesempre160200077/52266933-interior-de-una-casa-moderna-c%C3%B3moda-sala-de-estar.jpg",
+        "https://previews.123rf.com/images/piovesempre/piovesempre1512/piovesempre151200326/49781335-arquitectura-c%C3%B3moda-habitaci%C3%B3n-de-una-casa-moderna.jpg",
+        "https://images.hola.com/imagenes/decoracion/20200325164009/decoracion-cocinas-modernas-color/0-802-947/cocinas-color-11a-a.jpg",
+        "https://decoracionesbonitas.com/wp-content/uploads/2021/10/decoracion-para-habitaciones.jpg",
+        "https://www.arkiplus.com/wp-content/uploads/2021/01/banos-modernos4.jpg"
+      ],
+      "id": 11
+    }
+  ]
+}
