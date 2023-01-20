@@ -23,16 +23,9 @@ const urlFavoritos = "http://localhost:3000/favoritos";
 let Casas = [];
 
 const contenedorCasas = document.getElementById("contenedorCards");
-const nodelistipo=document.getElementById('select');
-const nodelistip=document.getElementById("select");
-console.log(nodelistip);
-const arrayList = [...nodelistip];
-arrayList.forEach(element => {
-  console.log(element.value);
-});
-console.log(typeof arrayList);
 //-----Capturando el input de búsqueda
 const search = document.getElementById("search");
+const search2 = document.getElementById("search2");
 
 //-----Botones de filtrado--------
 
@@ -145,4 +138,53 @@ search.addEventListener("search", async () => {
   } catch (error) {
     console.log(error);
   }
+});
+
+
+
+// filtro por ubicacion y tipo de inmueble
+
+search2.addEventListener("search", async (event) => {
+  //.preventDefault() evita que ocurra la acción que viene asociada al submit por defecto (la recarga de la página)
+  event.preventDefault();
+  try {
+    let inputVal = document.getElementById("search2").value;
+    console.log(inputVal);
+    sessionStorage.setItem("ubicacion", JSON.stringify(inputVal));
+
+    let select = document.getElementById("select").value;
+    console.log(select);
+    sessionStorage.setItem("tipo", JSON.stringify(select));
+    const datosCasas = await getDataFetch(urlCasas);
+    if (inputVal && select) {
+
+      const resultadoBusquedaUbica = datosCasas.filter((house) =>
+        house.ubicacion.toLowerCase().includes(inputVal.toLowerCase())
+      );
+      const resultadoBusquedaTipo = resultadoBusquedaUbica.filter((house) =>
+        house.tipo.toLowerCase().includes(select.toLowerCase())
+      );
+
+      printCardsCasas(contenedorCasas, resultadoBusquedaTipo,0);
+    }
+    if (inputVal && !select) {
+
+      const resultadoBusquedaUbica = datosCasas.filter((house) =>
+        house.ubicacion.toLowerCase().includes(inputVal.toLowerCase())
+      );
+      printCardsCasas(contenedorCasas, resultadoBusquedaUbica,0);
+    }
+
+    if (!inputVal && select) {
+      console.log("estoy en esta condición");
+      const resultadoBusquedaTipo = datosCasas.filter((house) =>
+        house.tipo.toLowerCase().includes(select.toLowerCase())
+      );
+      printCardsCasas(contenedorCasas, resultadoBusquedaTipo,0);
+    }
+  } catch (error) {
+    console.log(error);
+  }
+
+
 });

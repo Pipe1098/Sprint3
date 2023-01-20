@@ -19,27 +19,6 @@
       "id": 1
     },
     {
-      "name": "Finca Rosales",
-      "height": "200",
-      "precio": "136'000.000",
-      "comodidades": "6 hab,2 bañ, piscina, cancha, terraza, balcon, jardin",
-      "descripcion": "Finca en venta para estrenar en Rionegro",
-      "modalidad": "Venta",
-      "contacto": "Veronica Bedoya-3156987456",
-      "tipo": "Finca",
-      "ubicacion": "norte",
-      "image": "https://st.depositphotos.com/2018053/2693/i/450/depositphotos_26934873-stock-photo-modern-house.jpg",
-      "images": [
-        "https://thumbs.dreamstime.com/z/comedor-dentro-de-la-casa-moderna-48148754.jpg",
-        "https://previews.123rf.com/images/piovesempre/piovesempre1602/piovesempre160200077/52266933-interior-de-una-casa-moderna-c%C3%B3moda-sala-de-estar.jpg",
-        "https://previews.123rf.com/images/piovesempre/piovesempre1512/piovesempre151200326/49781335-arquitectura-c%C3%B3moda-habitaci%C3%B3n-de-una-casa-moderna.jpg",
-        "https://images.hola.com/imagenes/decoracion/20200325164009/decoracion-cocinas-modernas-color/0-802-947/cocinas-color-11a-a.jpg",
-        "https://decoracionesbonitas.com/wp-content/uploads/2021/10/decoracion-para-habitaciones.jpg",
-        "https://www.arkiplus.com/wp-content/uploads/2021/01/banos-modernos4.jpg"
-      ],
-      "id": 4
-    },
-    {
       "name": "Local mall del sur",
       "height": "300",
       "precio": "90'000.000",
@@ -68,7 +47,7 @@
       "descripcion": "Apartamento con excelentes acabados, en unidad cerrada, a 2 min de la vía principal",
       "modalidad": "Renta",
       "contacto": "Carlos-2589740",
-      "tipo": "female",
+      "tipo": "Apartamento",
       "ubicacion": "sur",
       "image": "https://static4.depositphotos.com/1004032/356/i/950/depositphotos_3569587-stock-photo-single-family-small-house.jpg",
       "images": [
@@ -311,6 +290,34 @@
         "https://www.arkiplus.com/wp-content/uploads/2021/01/banos-modernos4.jpg"
       ],
       "id": 18
+    },
+    {
+      "name": "Casa ",
+      "height": "100 ",
+      "precio": "1'200.000",
+      "comodidades": "3 hab, 2 bañ, cocina, sala, balcon.",
+      "descripcion": "Es una casa muy lujosa y con mucha naturaleza alrededor",
+      "modalidad": "Casa",
+      "contacto": "Veronica Bedoya-3156987456",
+      "tipo": "Casa",
+      "ubicacion": "Sur",
+      "image": "https://smoda.elpais.com/wp-content/uploads/2019/12/2-look.jpg",
+      "images": "https://previews.123rf.com/images/piovesempre/piovesempre1602/piovesempre160200077/52266933-interior-de-una-casa-moderna-c%C3%B3moda-sala-de-estar.jpg,https://previews.123rf.com/images/piovesempre/piovesempre1512/piovesempre151200326/49781335-arquitectura-c%C3%B3moda-habitaci%C3%B3n-de-una-casa-moderna.jpg",
+      "id": 19
+    },
+    {
+      "name": "Finca el amanecer",
+      "height": "800 m²",
+      "precio": "1'200.000",
+      "comodidades": "3 hab, 2 bañ, cocina, sala, balcon.",
+      "descripcion": "Es una casa muy lujosa y con mucha naturaleza alrededor",
+      "modalidad": "Casa",
+      "contacto": "Veronica Bedoya-3156987456",
+      "tipo": "Apartamento",
+      "ubicacion": "Norte",
+      "image": "https://static4.depositphotos.com/1004032/356/i/950/depositphotos_3569587-stock-photo-single-family-small-house.jpg",
+      "images": "[\"https://previews.123rf.com/images/piovesempre/piovesempre1602/piovesempre160200077/52266933-interior-de-una-casa-moderna-c%C3%B3moda-sala-de-estar.jpg\",\"https://previews.123rf.com/images/piovesempre/piovesempre1512/piovesempre151200326/49781335-arquitectura-c%C3%B3moda-habitaci%C3%B3n-de-una-casa-moderna.jpg\"]",
+      "id": 20
     }
   ],
   "favoritos": [
